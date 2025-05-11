@@ -70,5 +70,3 @@ pip install torch torchvision tensorboard
 - [CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ---
-
-Feel free to modify this README to better fit your needs!
